@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "minecraftld.aternos.me:50884",
-    "port": 29195,
-    "version": "1.21.1"
+    "port": 50884,
+    "version": "26.3"
   },
   "position": {
     "enabled": true,
